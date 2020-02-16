@@ -15,8 +15,8 @@
   ],
 
   "browser_action": {
-    "default_icon": "icons/beasts-32.png",
-    "default_title": "Beastify",
+    "default_icon": "icons/borders-48.png",
+    "default_title": "MetaConnect",
     "default_popup": "popup/popup.html"
   },
 
